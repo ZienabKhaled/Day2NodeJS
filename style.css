@@ -1,0 +1,31 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+body{
+    background-color:  rgb(218, 212, 205);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+th {
+    border: 1px solid #dddddd;
+    text-align: center;
+    padding: 8px;
+    color: white;
+    background-color: rgb(47, 46, 46);
+}
+
+button{
+    background-color: rgb(172, 170, 170);
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+
+}
+
+tr td{
+    text-align: center;
+    border: 1px solid #0f0e0e;
+    color: black;
+    font-weight: 500;
+}
